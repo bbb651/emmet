@@ -1,0 +1,13 @@
+[package]
+name = "emmet"
+version = "0.0.0"
+authors = ["Bar Yemini <bar.ye651@gmail.com>"]
+edition = "2021"
+description = "A crate to expand emmet abbreviations."
+homepage = "https://github.com/bbb651/emmet"
+repository = "https://github.com/bbb651/emmet"
+keywords = ["abbreviation", "emmet", "html", "css"]
+categories = ["text-editors", "parsing"]
+license = "MIT"
+
+[dependencies]
